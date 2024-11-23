@@ -67,5 +67,5 @@ The dataset contains the following relevant columns:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/niamat-sirrou/PRODIGY_ML_02.git
+   git clone https://github.com/niamat-sirrou/PRODIGY_ML_01.git
    cd PRODIGY_ML_01
